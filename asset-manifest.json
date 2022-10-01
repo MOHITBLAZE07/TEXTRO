@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TEXTRO/static/css/main.073c9b0a.css",
+    "main.js": "/TEXTRO/static/js/main.4a05fc4a.js",
+    "static/js/787.b301bf4a.chunk.js": "/TEXTRO/static/js/787.b301bf4a.chunk.js",
+    "index.html": "/TEXTRO/index.html",
+    "main.073c9b0a.css.map": "/TEXTRO/static/css/main.073c9b0a.css.map",
+    "main.4a05fc4a.js.map": "/TEXTRO/static/js/main.4a05fc4a.js.map",
+    "787.b301bf4a.chunk.js.map": "/TEXTRO/static/js/787.b301bf4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4a05fc4a.js"
+  ]
+}
